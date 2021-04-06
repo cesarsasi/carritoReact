@@ -1,0 +1,58 @@
+{
+    "listProducts":[
+        {
+            "id":0,
+            "title": "Linces team",
+            "img": "https://images5.alphacoders.com/113/1139340.jpg",
+            "description": "Top photograph team",
+            "ranking": "7.7",
+            "price":"17",
+            "stock":7
+        },
+        {
+            "id":1,
+            "title":"Kitty team", 
+            "img":"https://images4.alphacoders.com/113/1138236.jpg", 
+            "description":"Pets illustrations", 
+            "ranking": "4.6",
+            "price":"14",
+            "stock":17
+        },
+        {
+            "id":2,
+            "title":"Dragon team", 
+            "img":"https://images7.alphacoders.com/113/1137731.jpg", 
+            "description":"Gamming and Hacking", 
+            "ranking": "5.4",
+            "price":"7",
+            "stock":10
+        },
+        {
+            "id":3,
+            "title": "Emilia the sukeban",
+            "img": "https://images2.alphacoders.com/865/thumb-1920-865011.jpg", 
+            "description": "Top photograph team", 
+            "ranking": "7.4",
+            "price":"20",
+            "stock":9
+        },
+        {
+            "id":4,
+            "title":"Emilia tsundere", 
+            "img":"https://images6.alphacoders.com/685/thumb-1920-685444.jpg", 
+            "description":"Pets illustrations", 
+            "ranking": "5.7",
+            "price":"33",
+            "stock":4
+        },
+        {
+            "id":5,
+            "title":"Born in the fire team", 
+            "img":"https://images3.alphacoders.com/918/thumb-1920-918447.jpg", 
+            "description":"Gamming and Hacking", 
+            "ranking": "8,8",
+            "price":"44",
+            "stock":"8"
+        }
+    ]
+}
